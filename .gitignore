@@ -1,7 +1,10 @@
-/data_stacksample/
-/data_ToxicComment/
-/rquestions/
-/pythonquestions/
 /GoogleNews-vectors-negative300.bin
 /corpus/
 /word2vecModel/
+/models-master/
+/dataset_stackoverflow/
+/data/
+/QuoraQuestionPairs/
+/word2vecModel/
+/SN_weights/
+
