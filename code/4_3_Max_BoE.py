@@ -13,9 +13,7 @@ labels = np.load("quora_labels.npy")
 
 w2v_embedding = {}
 w2v_embedding['pivots100_7m'] = np.load("w2v_pivots100_7m.npy")
-w2v_embedding['pivots100_6m'] = np.load("w2v_pivots100_6m.npy")
 w2v_embedding['pivots100_5m'] = np.load("w2v_pivots100_5m.npy")
-w2v_embedding['pivots100_4m'] = np.load("w2v_pivots100_4m.npy")
 w2v_embedding['pivots100_3m'] = np.load("w2v_pivots100_3m.npy")
 w2v_embedding['pivots100_2m'] = np.load("w2v_pivots100_2m.npy")
 w2v_embedding['pivots100_1m'] = np.load("w2v_pivots100_1m.npy")
